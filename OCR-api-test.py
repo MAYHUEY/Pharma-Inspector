@@ -33,3 +33,5 @@ if document.text:
     # Other details can be printed similarly depending on your requirements
 else:
     print("No text found in the document.")
+
+# need to change somthing
